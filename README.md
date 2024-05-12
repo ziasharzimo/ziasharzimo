@@ -2,7 +2,13 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQF-dWX_Wj3OnQ/profile-displaybackgroundimage-shrink_350_1400/0/1715541794549?e=1721260800&v=beta&t=nNLxfLBPzagYJEVnp3iKmy-FdYX_-UGB8P-nbPM5PeM)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a professional web developer and WordPress expert, having worked in this field for four years. As a proficient web developer and WordPress expert, I embody a blend of technical expertise, creative aptitude, and problem-solving wisdom. 
+
+I have sufficient technical proficiency, and I am well-versed in a variety of web development languages and frameworks, including HTML, CSS, JavaScript, PHP, and MySQL, as well as a deep understanding of WordPress theme development standards and best practices. My deep understanding of these technologies allows me to prepare robust and efficient websites that meet the highest standards of performance and functionality. 
+
+Along with years of experience working with WordPress, I have sharpened my skills in every aspect of the platform, including its core functionalities, themes, plugins, and architecture. I have a comprehensive understanding of the WordPress platform and its ecosystem.
+
+I am an expert in setting up WordPress installations and configuring them to suit specific needs to customize themes and use plugins. I can customize WordPress websites extensively, including customizing the appearance and layout using CSS, implementing custom post types and taxonomies, and integrating third-party APIs and services. 
 
 Skills: HTML / CSS / JavaScript / Bootstrap / jQuery / MySQL / PHP
 
