@@ -1,14 +1,15 @@
-### Hi there 👋, Hi, My name is Md. Ziaur Rahman
+### Hi there 👋, Hi, My names Md. Ziaur Rahman 
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQF-dWX_Wj3OnQ/profile-displaybackgroundimage-shrink_350_1400/0/1715541794549?e=1721260800&v=beta&t=nNLxfLBPzagYJEVnp3iKmy-FdYX_-UGB8P-nbPM5PeM)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: HTML / CSS / JavaScript / Bootstrap / jQuery/ PHP/ MySQL/ WordPress Development 
+Skills: HTML / CSS / JavaScript / Bootstrap / jQuery / MySQL / PHP
 
-- 🔭 I’m currently working on Web Design and WordPress Development  
-- 🌱 I’m currently learning UI/UX Design  
-- 💬 Ask me about Web Design & Development and WordPress  
+- 🔭 I’m currently working on Web Design | Web Development | WordPress Development  
+- 🌱 I’m currently learning UI/UX Design 
+- 👯 I’m looking to collaborate on Web Design and Development Issues 
+- 💬 Ask me about Web Design, Web Development and WordPress 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ziasharzimo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/md-ziaur-rahman-a09726a1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hasan.sharzimo/)  
