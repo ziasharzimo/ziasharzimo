@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, My names Md. Ziaur Rahman 
+### Hi there 👋, Hi, My name is Md. Ziaur Rahman 
 #### Professional Web Designer | Full Stack Web Developer | WordPress Expert
 ![Professional Web Designer | Full Stack Web Developer | WordPress Expert](https://media.licdn.com/dms/image/D5616AQF-dWX_Wj3OnQ/profile-displaybackgroundimage-shrink_350_1400/0/1715541794549?e=1721260800&v=beta&t=nNLxfLBPzagYJEVnp3iKmy-FdYX_-UGB8P-nbPM5PeM)
 
